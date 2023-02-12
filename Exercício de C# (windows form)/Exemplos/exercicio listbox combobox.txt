@@ -1,0 +1,34 @@
+Crie um projeto para Calcular a idade de um usuário. O usuário informará o seu NOME, seu SEXO e ANO de NASCIMENTO.
+Ao clicar no botão IDADE, o programa deverá adicionar o nome do usuário e sua idade na ListBox específica para HOMENS ou MULHERES.
+
+Nota1: O sexo será escolhido em uma ComboBox
+Nota2: Abaixo de cada ListBox deverá exbir a quantidade de itens(nomes)
+Nota3: Limpar as entrada de dados para a inserção dos próximos dados
+   
+
+
+
+exemplo:
+
+ private void button1_Click(object sender, EventArgs e)
+        {
+           //Verificação de item de comboBox
+            if (comboBox1.Text=="Masculino")
+            {
+                MessageBox.Show("vc selecionou masculinooooo");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //inserir item na ListBox
+            Contador += 1;
+            listBox1.Items.Add( Contador.ToString() + "  " + textBox1.Text);
+        
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //Limpar ListBox
+            listBox1.Items.Clear();
+        }

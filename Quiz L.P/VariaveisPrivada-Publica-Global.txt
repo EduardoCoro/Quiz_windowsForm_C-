@@ -1,0 +1,25 @@
+Variáveis Privada, Publica e Global:
+
+
+Privada só é utilizada pelo procedimento onde foi declarada, como por exemplo dentro do evento click de um botão.
+
+
+Publica é utlizada em todo o form onde foi declarada. Podendo assim ser utilizada em vários eventos, como por exemplo em vários blocos de programação.
+	Ela deve ser declarada no inicio da classe do form.
+
+
+Global é declarada em uma nova classe, e pode ser utilizada em todo o projeto.
+ 
+Criando Variáveis Globais:
+
+
+Adicionar uma nova Classe:
+	Menu Project>>Add New Item>>Class
+Dar o nome da classe de VariaveisGlobais;
+Declarar as Variáveis dentro da Classe;
+Ex:   
+	public static int Contador;
+
+Para utilizar a variável basta colocarmos o nome da classe PONTO o nome da variável.
+Ex de uso:
+	TextBox1.Text = VariaveisGlobais.Contador.ToString();

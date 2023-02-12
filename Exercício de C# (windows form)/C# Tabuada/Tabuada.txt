@@ -1,0 +1,20 @@
+crie um programa para exibir a tabuada de um número informado pelo usuário.
+Após informar o número, o usuário clicará no botão TABUADA e a tabuada(1 a 10) deverá ser exibida em uma ListBox.
+Adicionar os botões Limpar e Sair.
+
+Ex:
+
+5
+
+1 x 5 = 5
+2 x 5 = 10
+...
+...
+10 x 5 = 50
+
+
+   for (int i = 1; i <= 5; i++)
+            {
+                
+               listBox1.Items.Add(i + "- " + textBox1.Text); 
+            }

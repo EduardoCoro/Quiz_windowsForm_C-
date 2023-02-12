@@ -1,0 +1,21 @@
+Exercício para Avaliação.
+
+Crie um projeto de perguntas e respostas contendo no mínimo 10 perguntas.
+
+ATENÇÃO:
+
+	Ao final das respostas o programa deverá exibir:
+		Pontuação do usuário;
+		Quantidade de acertos;
+		Quantidade de Erros;
+	Os formulários não poderão ser fechados pelo usuário;
+	o formulário principal deverá ser maximizado;
+	os formulários de perguntas deverão ser centralizados;
+	as perguntas deverão ser de multipla escolha(4 alternativas);
+	vc que definirá o assunto das perguntas;
+	Quando o jogo Iniciar não esqueça de ZERAR as variáveis;
+
+
+
+
+

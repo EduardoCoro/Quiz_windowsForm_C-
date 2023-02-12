@@ -1,0 +1,30 @@
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\obj\x86\Debug\EX_3.Form1.resources
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\obj\x86\Debug\EX_3.Properties.Resources.resources
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\obj\x86\Debug\EX_3.csproj.GenerateResource.Cache
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\bin\Debug\EX_3.exe
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\bin\Debug\EX_3.pdb
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\obj\x86\Debug\EX_3.exe
+C:\Users\CLI\documents\visual studio 2010\Projects\EX_3\EX_3\obj\x86\Debug\EX_3.pdb
+C:\Users\CLI\Desktop\EX_3\EX_3\obj\x86\Debug\EX_3.exe
+C:\Users\CLI\Desktop\EX_3\EX_3\obj\x86\Debug\EX_3.pdb
+C:\Users\CLI\Desktop\EX_3\EX_3\bin\Debug\EX_3.exe
+C:\Users\CLI\Desktop\EX_3\EX_3\bin\Debug\EX_3.pdb
+C:\Users\CLI\Desktop\EX_3\EX_3\obj\x86\Debug\EX_3.Form1.resources
+C:\Users\CLI\Desktop\EX_3\EX_3\obj\x86\Debug\EX_3.Properties.Resources.resources
+C:\Users\CLI\Desktop\EX_3\EX_3\obj\x86\Debug\EX_3.csproj.GenerateResource.Cache
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.exe
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\bin\Debug\EX_3.exe
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\bin\Debug\EX_3.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.csprojResolveAssemblyReference.cache
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.Form1.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.Properties.Resources.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.csproj.GenerateResource.Cache
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.exe
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.pdb
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\bin\Debug\EX_3.exe
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\bin\Debug\EX_3.pdb
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.csprojResolveAssemblyReference.cache
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.Form1.resources
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.Properties.Resources.resources
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\EX_3\EX_3\obj\x86\Debug\EX_3.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\bin\Debug\ExemploVariaveis.exe
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\bin\Debug\ExemploVariaveis.pdb
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.frmPrincipal.resources
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.frm3.resources
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.Properties.Resources.resources
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.exe
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.pdb
+C:\Users\CLI\Desktop\ExemploVariaveis\ExemploVariaveis\obj\x86\Debug\ExemploVariaveis.frm2.resources

@@ -1,0 +1,18 @@
+C:\Users\CLI\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\CLI\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.Form1.resources
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.Properties.Resources.resources
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.exe
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.pdb
+C:\Users\CLI\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\CLI\Desktop\Farmacia\Farmacia\obj\x86\Debug\Farmacia.CadCidade.resources
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.exe
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.pdb
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.CadCidade.resources
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.Form1.resources
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.Properties.Resources.resources
+E:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Inserção Banco de Dados\Farmacia\Farmacia\obj\x86\Debug\Farmacia.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\bin\Debug\Tabu_contas.exe
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\bin\Debug\Tabu_contas.pdb
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\obj\x86\Debug\Tabu_contas.Form1.resources
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\obj\x86\Debug\Tabu_contas.Properties.Resources.resources
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\obj\x86\Debug\Tabu_contas.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\obj\x86\Debug\Tabu_contas.exe
+C:\Users\CLI\Desktop\C# Tabuada\Tabu_contas\Tabu_contas\obj\x86\Debug\Tabu_contas.pdb

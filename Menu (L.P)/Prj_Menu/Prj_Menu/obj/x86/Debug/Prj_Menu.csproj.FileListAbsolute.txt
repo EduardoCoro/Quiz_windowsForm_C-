@@ -1,0 +1,22 @@
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\bin\Debug\Prj_Menu.exe
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\bin\Debug\Prj_Menu.pdb
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.frmCal.resources
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Properties.Resources.resources
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.csproj.GenerateResource.Cache
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.exe
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.pdb
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Ad_Sub.resources
+E:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Mult_DIv.resources
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.exe
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.pdb
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\bin\Debug\Prj_Menu.exe
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\bin\Debug\Prj_Menu.pdb
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Ad_Sub.resources
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.frmCal.resources
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Mult_Div.resources
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.Properties.Resources.resources
+F:\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.csproj.GenerateResource.Cache
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.exe
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.exe
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Menu (L.P)\Prj_Menu\Prj_Menu\obj\x86\Debug\Prj_Menu.pdb

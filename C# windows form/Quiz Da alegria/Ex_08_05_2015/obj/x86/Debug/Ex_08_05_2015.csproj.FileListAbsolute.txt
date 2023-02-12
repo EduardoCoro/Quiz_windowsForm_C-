@@ -1,0 +1,75 @@
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr2.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr3.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmrPrincipal.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr1.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm10.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm4.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm5.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm6.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm7.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm8.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm9.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.Properties.Resources.resources
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.exe
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.pdb
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+C:\Users\CLI\Desktop\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.exe
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.pdb
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr2.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr3.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmrPrincipal.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr1.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm10.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm4.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm5.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm6.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm7.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm8.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm9.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.Properties.Resources.resources
+H:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.csproj.GenerateResource.Cache
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.exe
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.pdb
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr2.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr3.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmrPrincipal.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr1.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm10.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm4.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm5.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm6.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm7.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm8.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm9.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.Properties.Resources.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.csproj.GenerateResource.Cache
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.exe
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\bin\Debug\Ex_08_05_2015.pdb
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr2.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr3.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmrPrincipal.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.fmr1.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm10.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm4.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm5.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm6.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm7.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm8.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.frm9.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.Properties.Resources.resources
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.csproj.GenerateResource.Cache
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Ex_08_05_2015\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.Resultcs.resources
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+D:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb
+G:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.exe
+G:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\C# windows form\Quiz Da alegria\Ex_08_05_2015\obj\x86\Debug\Ex_08_05_2015.pdb

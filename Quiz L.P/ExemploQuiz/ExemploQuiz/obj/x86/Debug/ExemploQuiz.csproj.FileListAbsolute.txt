@@ -1,0 +1,13 @@
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\bin\Debug\ExemploQuiz.exe
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\bin\Debug\ExemploQuiz.pdb
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.frmInicial.resources
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.Properties.Resources.resources
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.exe
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.pdb
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.frmP1.resources
+C:\Users\CLI\Desktop\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.frmP2.resources
+H:\Quiz L.P\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.exe
+H:\Quiz L.P\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.pdb
+F:\Quiz L.P\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.exe
+F:\Quiz L.P\ExemploQuiz\ExemploQuiz\obj\x86\Debug\ExemploQuiz.pdb

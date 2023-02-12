@@ -1,0 +1,12 @@
+c:\users\cli\documents\visual studio 2010\Projects\exemploCheck\exemploCheck\bin\exemploCheck.dll
+c:\users\cli\documents\visual studio 2010\Projects\exemploCheck\exemploCheck\bin\exemploCheck.pdb
+c:\users\cli\documents\visual studio 2010\Projects\exemploCheck\exemploCheck\obj\Debug\exemploCheck.dll
+c:\users\cli\documents\visual studio 2010\Projects\exemploCheck\exemploCheck\obj\Debug\exemploCheck.pdb
+F:\exemploCheck\exemploCheck\bin\exemploCheck.dll
+F:\exemploCheck\exemploCheck\bin\exemploCheck.pdb
+F:\exemploCheck\exemploCheck\obj\Debug\exemploCheck.dll
+F:\exemploCheck\exemploCheck\obj\Debug\exemploCheck.pdb
+E:\exemploCheck\exemploCheck\bin\exemploCheck.dll
+E:\exemploCheck\exemploCheck\bin\exemploCheck.pdb
+E:\exemploCheck\exemploCheck\obj\Debug\exemploCheck.dll
+E:\exemploCheck\exemploCheck\obj\Debug\exemploCheck.pdb

@@ -1,0 +1,11 @@
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\bin\Debug\Ex_idade.exe
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\bin\Debug\Ex_idade.pdb
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.Form1.resources
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.Properties.Resources.resources
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.csproj.GenerateResource.Cache
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.exe
+C:\Users\CLI\Desktop\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.pdb
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.exe
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.pdb
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.exe
+G:\Pessoais\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Lpoo\Exercício de C# (windows form)\Ex_idade\Ex_idade\obj\x86\Debug\Ex_idade.pdb
